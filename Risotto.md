@@ -1,7 +1,6 @@
-# Base Risotto Recipe
+# Base Risotto
 
-Hint: Risotto is more of a pasta dish than a rice dish, the magic sauce is essentially an emulsion of water and fat, stabilised by the amylopectin of the short grain rice.
-With this in mind butter is a good friend, as it provides both water and fat (1:9), has a mild taste, and helps both with the emulsion and also with the smoother integration of the cheese.
+Hint: Risotto is more of a pasta dish than a rice dish, the magic sauce is essentially an emulsion of water and fat, stabilised by the amylopectin of the short grain rice. With this in mind butter is a good friend, as it provides both water and fat (1:9), has a mild taste, and helps both with the emulsion and also with the smoother integration of the cheese.
 
 ## Ingredients (Approx per volume):
 - 1 cup short grain rice (Carnaroli, Carolina, Arborio)
@@ -14,9 +13,9 @@ With this in mind butter is a good friend, as it provides both water and fat (1:
 
 ## Instructions:
 
-1. Drop the rice and 1/6 cup fat into a medium heat pan. Stir until the grains are covered.
+1. Drop the rice and 1/6 cup fat into a saucepan set on medium heat. Stir until the grains are covered.
 
-2. Turn the heat to high, pour in your liquid, starting with the water base, and then, if available, the alcohol. Add salt if needed.
+2. Turn the heat to high, pour in your liquid, starting with the water base, and then, if available, the alcohol. Add salt if needed. (Final 0.5 cup can be added now or later depending on your preferences)
 
 3. If using, add the optional chopped dried shiitake mushrooms.
 
